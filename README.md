@@ -1,4 +1,4 @@
-# MyProject
+# Project(App_Reviewa_Sentiment_Analysis).ipynb
 Project completed during my Data Science internship. Includes data analysis, machine learning models, and insights.
 # Data Science Intern Project
 This repository contains my work as a Data Science Intern.  
